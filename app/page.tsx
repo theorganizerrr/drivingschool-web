@@ -24,7 +24,7 @@ export default async function Home() {
 
       <h2 style={{ marginTop: 20, fontSize: 18, fontWeight: 600 }}>Tenant test</h2>
       <p>
-        <a href="/t/legon-driving-school">Open /t/legon-driving-school</a>
+        <a href="/t/hasnemdrivingschool">Open /t/hasnemdrivingschool</a>
       </p>
     </main>
   );
